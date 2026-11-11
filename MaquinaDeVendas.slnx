@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Vend.Cli/Vend.Cli.csproj" />
+    <Project Path="src/Vend.Core/Vend.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Vend.Tests/Vend.Tests.csproj" />
+  </Folder>
+</Solution>
